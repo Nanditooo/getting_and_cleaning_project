@@ -6,7 +6,7 @@ The `run_analysis.R` file is the project code, and the `CodeBook.md` is the code
 
 ## Script
 The `run_analysis.R` code performs the following steps
-1. 
-1. 
+  1. 
+  1. 
 
 
