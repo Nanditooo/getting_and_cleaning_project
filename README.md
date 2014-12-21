@@ -21,4 +21,6 @@ The `run_analysis.R` code performs the following steps
   11. Loading `data.table` library to use `data.table[, lapply(.SD, mean), by=list(subject, activity_labels)]` function to create the mean value of all variables for each subject and activity labels.
   12. Reorder the tidy data and write it to a txt file.
 
+## Data
+If you would like to read about the data and the meaning of variable names, please check the `CodeBook.md` file!
 
